@@ -34,6 +34,25 @@ This application allows store associates to capture images of shelves using a mo
   <img src="assets/zidane.jpg" alt="YOLO Example - Zidane" width="45%" />
 </div>
 
+## 📐 Architecture Diagram
+
+<div align="center">
+  <img src="assets/architecture_diagram_1.png" alt="Architecture Diagram" width="80%" />
+</div>
+
+## 📊 YOLO Model Comparison
+
+The following graphs highlight the performance of YOLOv26 compared to previous iterations in both accuracy and latency.
+
+<div align="center">
+  <img src="assets/yolo_comparison_graph.png" alt="YOLO Comparison Graph" width="45%" />
+  <img src="assets/yolo_model_latency.png" alt="YOLO Latency Comparison" width="45%" />
+</div>
+
+<div align="center">
+  <img src="assets/yolo26%20architecture.png" alt="YOLOv26 Architecture" width="80%" />
+</div>
+
 ## 🏗 Project Structure
 
 The repository is divided into three interconnected micro-services:
