@@ -29,9 +29,10 @@
 This application allows store associates to capture images of shelves using a mobile device, which are then analyzed using advanced Computer Vision models (**YOLOv26**) to count items automatically. An admin dashboard provides real-time oversight of inventory health across the store.
 
 <div align="center">
-  <h3>🔍 Example YOLO Object Detection</h3>
-  <img src="assets/bus.jpg" alt="YOLO Example - Bus" width="45%" />
-  <img src="assets/zidane.jpg" alt="YOLO Example - Zidane" width="45%" />
+  <h3>📱 Project Screenshots</h3>
+  <img src="assets/Picture1.png" alt="Screenshot 1" width="30%" />
+  <img src="assets/Picture2.png" alt="Screenshot 2" width="30%" />
+  <img src="assets/PHOTO-2026-05-06-09-13-22.jpg" alt="Screenshot 3" width="30%" />
 </div>
 
 ## 📐 Architecture Diagram
