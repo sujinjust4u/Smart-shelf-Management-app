@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi" alt="FastAPI" />
     <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React" />
     <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React Native" />
-    <img src="https://img.shields.io/badge/YOLOv26-Ultralytics-orange.svg" alt="YOLOv26" />
+    <img src="https://img.shields.io/badge/YOLOv26-Ultralytics-orange.svg" alt="YOLO26" />
   </p>
   <p><i>A full-stack, AI-powered system designed to automate inventory management and shelf-stocking for retail environments.</i></p>
 </div>
